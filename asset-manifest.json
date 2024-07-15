@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reacrApp/static/css/main.70fb9661.css",
-    "main.js": "/reacrApp/static/js/main.7daca9d2.js",
+    "main.js": "/reacrApp/static/js/main.7c48488d.js",
     "static/js/453.ed3810f9.chunk.js": "/reacrApp/static/js/453.ed3810f9.chunk.js",
     "index.html": "/reacrApp/index.html",
     "main.70fb9661.css.map": "/reacrApp/static/css/main.70fb9661.css.map",
-    "main.7daca9d2.js.map": "/reacrApp/static/js/main.7daca9d2.js.map",
+    "main.7c48488d.js.map": "/reacrApp/static/js/main.7c48488d.js.map",
     "453.ed3810f9.chunk.js.map": "/reacrApp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70fb9661.css",
-    "static/js/main.7daca9d2.js"
+    "static/js/main.7c48488d.js"
   ]
 }
